@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0033-search-in-rotated-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1920-build-array-from-permutation) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0015-3sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
