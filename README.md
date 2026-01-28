@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
