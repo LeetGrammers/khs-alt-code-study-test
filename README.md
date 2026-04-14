@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0200-number-of-islands) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,4 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/khs-alt/https-github.com-LeetGrammers-coding-study/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
